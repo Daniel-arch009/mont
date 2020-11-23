@@ -1,4 +1,4 @@
-# Janefielt Wetlane Project.
+# Janefielt Wetland Project.
 
 This is a document explaining about the Janefield wet land project.
 
