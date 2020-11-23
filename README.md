@@ -1,6 +1,6 @@
-# Janefielt Wetland Project.
+# Janefield Wetland Project.
 
-This is a document explaining about the Janefield wet land project.
+This is a document explaining about the Janefield wetland project.
 
 
 
